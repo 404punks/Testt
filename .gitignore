@@ -1,0 +1,18 @@
+# dependencies
+/node_modules
+
+# next
+/.next
+/out
+
+# local environment and secrets
+.env
+.env.local
+.env.*.local
+
+# tests and tooling
+/coverage
+*.tsbuildinfo
+
+# editor / operating system
+.DS_Store
